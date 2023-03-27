@@ -1,2 +1,2 @@
 # Podcast-RSS-Specification
-A living standard for podcast RSS feeds.
+A proposed standard for podcast RSS feeds.
