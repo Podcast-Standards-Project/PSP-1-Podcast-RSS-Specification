@@ -52,7 +52,7 @@
 
 ## About This Document
 
-This document specifies requirements and best practices for [PSP](#what-is-the-podcast-standards-project-psp)-certififed podcast feeds. It defines required and optional RSS [namespaces(#required-rss-namespace-declarations)] and [feed elements](#rss-feed-elements) that have proven the most useful, and codifies other conventions to remove ambiguities that app creators have wrestled with since the dawn of podcasting.
+This document specifies requirements and best practices for [PSP](#what-is-the-podcast-standards-project-psp)-certififed podcast feeds. It defines required and optional RSS [namespaces](#required-rss-namespace-declarations) and [feed elements](#rss-feed-elements) that have proven the most useful, and codifies other conventions to remove ambiguities that app creators have wrestled with since the dawn of podcasting.
 
 This specification builds on the [RSS feed format standard](https://www.rssboard.org/rss-specification), which is possible thanks the foresight of the [creators of RSS](https://www.rssboard.org/rss-history).
 
